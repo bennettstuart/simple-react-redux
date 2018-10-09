@@ -1,3 +1,7 @@
+Run this project
+
+`npm i && npm start`
+
 # Redux Notes
 
 > I visualise redux as a single service that handles the state of the whole app of which components can have just a select number of functions mapped to either store and/or receive data.
