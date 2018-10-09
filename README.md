@@ -92,3 +92,6 @@ ReactDOM.render(
   </Provider>
   , document.querySelector('.container'));
 ```
+
+# The Flow
+![miniclip](./image.png)
